@@ -1,0 +1,1 @@
+{"front":"Are you an idiot ?","back":"Yes","type":"basic"};{"text":"Donald Trump is the current President of the United States","cloze":"Donald Trump","clozeDel":"********** is the current President of the United States","type":"cloze"};{"front":"Who won the World Series in 2011 ?","back":"St. Louis Cardinals","type":"basic"};
